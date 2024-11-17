@@ -1,6 +1,6 @@
 # CityDynamics-Dashboard-via-MongoDb-Atlas
 
-# Acknowledgments-:
+## Acknowledgments-:
 
 I would like to express my gratitude to the following individuals and sources for their contributions to this project:
 
