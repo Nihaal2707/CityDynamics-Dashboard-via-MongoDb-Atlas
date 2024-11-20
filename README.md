@@ -30,7 +30,7 @@ This project leverages MongoDB Atlas to analyze traffic patterns and energy cons
 
 ## **Project Overview**
 
-The Futuristic City Traffic Dashboard is designed to provide decision-makers with critical insights into traffic behavior. It evaluates various influencing factors like weather conditions, economic states, and vehicle types. This dashboard is built on MongoDB Atlas, a fully managed cloud database service that supports scalable data storage and robust analytics.
+The CityDynamics Dashboard is designed to provide decision-makers with critical insights into traffic behavior. It evaluates various influencing factors like weather conditions, economic states, and vehicle types. This dashboard is built on MongoDB Atlas, a fully managed cloud database service that supports scalable data storage and robust analytics.
 
 ## Objectives
 
