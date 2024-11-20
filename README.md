@@ -68,15 +68,15 @@ The objective of this analysis is to leverage the futuristic urban traffic datas
 
 **Key Features:**
 
-**City:** Name of cities like MetropolisX, SolarisVille, etc.
+**1.) City:** Name of cities like MetropolisX, SolarisVille, etc.
 
-**Vehicle Type:** Types like Cars, Flying Cars, and Autonomous Vehicles.
+**2.) Vehicle Type:** Types like Cars, Flying Cars, and Autonomous Vehicles.
 
-**Weather Conditions:** Clear, Rainy, Snowy, and other weather states.
+**3.) Weather Conditions:** Clear, Rainy, Snowy, and other weather states.
 
-**Economic Conditions:** Booming, Recession, and Stable.
+**4.) Economic Conditions:** Booming, Recession, and Stable.
 
-**Traffic Metrics:** Speed, Traffic Density, Energy Consumption, and Peak Hour indicators.
+**5.) Traffic Metrics:** Speed, Traffic Density, Energy Consumption, and Peak Hour indicators.
 
 **Potential Uses:**
 
@@ -90,19 +90,19 @@ The objective of this analysis is to leverage the futuristic urban traffic datas
 
 The dashboard, hosted on MongoDB Atlas, offers a dynamic and visually rich analysis of the dataset. Below are key visualizations:
 
-**Average Energy Consumption by Vehicle Type**
+**1.) Average Energy Consumption by Vehicle Type**
 
 **Insight:** Evaluate energy usage for different vehicle categories.
 
-**Traffic Density vs. Speed by Economic Condition**
+**2.) Traffic Density vs. Speed by Economic Condition**
 
 **Insight:** Understand traffic flow behavior under varying economic states.
 
-**Hourly Traffic Density Patterns**
+**3.) Hourly Traffic Density Patterns**
 
 **Insight:** Identify peak traffic times and optimize city resources accordingly.
 
-**Energy Consumption by City and Weather**
+**4.) Energy Consumption by City and Weather**
 
 **Insight:** Compare energy usage trends across different cities and weather conditions.
 
