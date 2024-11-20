@@ -106,6 +106,8 @@ The dashboard, hosted on MongoDB Atlas, offers a dynamic and visually rich analy
 
 **Insight:** Compare energy usage trends across different cities and weather conditions.
 
+![Dashboard (MongoDB Atlas)](https://github.com/user-attachments/assets/9cd2765f-3244-4524-82a7-6cda1cd235d1)
+
 **Explore the live dashboard here:** https://charts.mongodb.com/charts-project-0-peualds/public/dashboards/65bf7c6c-985d-4496-af7e-e58daf2a5049
 
 ## **Business Insights**
