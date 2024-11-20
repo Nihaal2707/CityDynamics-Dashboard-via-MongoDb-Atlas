@@ -69,9 +69,13 @@ The objective of this analysis is to leverage the futuristic urban traffic datas
 **Key Features:**
 
 **City:** Name of cities like MetropolisX, SolarisVille, etc.
+
 **Vehicle Type:** Types like Cars, Flying Cars, and Autonomous Vehicles.
+
 **Weather Conditions:** Clear, Rainy, Snowy, and other weather states.
+
 **Economic Conditions:** Booming, Recession, and Stable.
+
 **Traffic Metrics:** Speed, Traffic Density, Energy Consumption, and Peak Hour indicators.
 
 **Potential Uses**
@@ -269,6 +273,8 @@ MongoDB Compass is a GUI tool for managing MongoDB collections, allowing you to 
 ### **2. Configure the Dashboard**
 
 1.) Open MongoDB Atlas Charts.
+
 2.) Create a new dashboard and build charts using the dataset's features.
+
 3.) Publish the dashboard for public sharing.
 
