@@ -78,7 +78,7 @@ The objective of this analysis is to leverage the futuristic urban traffic datas
 
 **Traffic Metrics:** Speed, Traffic Density, Energy Consumption, and Peak Hour indicators.
 
-**Potential Uses**
+**Potential Uses:**
 
 1.) Optimize traffic management systems for futuristic cities.
 
