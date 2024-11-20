@@ -113,6 +113,7 @@ The dashboard, hosted on MongoDB Atlas, offers a dynamic and visually rich analy
 **1. Avg. Energy Consumption (Donut Chart)**
 
 **Detailed Insight:**
+![Screenshot 2024-11-20 232125](https://github.com/user-attachments/assets/31b31fbb-21da-40f5-821f-17e1f6bfc964)
 
 The average energy consumption of 49.517 kWh per vehicle indicates a significant reliance on energy-intensive transportation methods. This average varies depending on vehicle type, traffic density, and weather conditions. High energy consumption may strain city energy grids, especially during peak hours or under adverse conditions.
 
