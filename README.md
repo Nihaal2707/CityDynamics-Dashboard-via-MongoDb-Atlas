@@ -112,8 +112,9 @@ The dashboard, hosted on MongoDB Atlas, offers a dynamic and visually rich analy
 
 **1. Avg. Energy Consumption (Donut Chart)**
 
+![Screenshot 2024-11-20 232125](https://github.com/user-attachments/assets/4eeb2621-71ec-41db-885e-d1cec28e16bd)
+
 **Detailed Insight:**
-![Screenshot 2024-11-20 232125](https://github.com/user-attachments/assets/31b31fbb-21da-40f5-821f-17e1f6bfc964)
 
 The average energy consumption of 49.517 kWh per vehicle indicates a significant reliance on energy-intensive transportation methods. This average varies depending on vehicle type, traffic density, and weather conditions. High energy consumption may strain city energy grids, especially during peak hours or under adverse conditions.
 
@@ -122,6 +123,8 @@ The average energy consumption of 49.517 kWh per vehicle indicates a significant
 Promote energy-efficient transportation modes such as autonomous electric vehicles. Introduce policies to incentivize low-energy consumption vehicles and discourage high-energy-consuming modes during peak hours. Implement infrastructure for renewable energy charging stations to support the growing energy demand.
 
 **2. Highest Energy Consumption (City-Wise)**
+
+![Screenshot 2024-11-20 232135](https://github.com/user-attachments/assets/5d3769e0-168d-4ce8-a25d-33a0f69a3760)
 
 **Detailed Insight:**
 
@@ -133,6 +136,8 @@ Conduct a detailed analysis of MetropolisX’s traffic patterns to identify area
 
 **3. Economic Condition (Pie Chart)**
 
+![Screenshot 2024-11-20 232516](https://github.com/user-attachments/assets/b94b5fe7-28ba-4ab6-8ef7-cc56dbb3bf13)
+
 **Detailed Insight:**
 
 The distribution of economic conditions (e.g., Booming, Recession) shows how urban mobility demand fluctuates. Cities in a "Booming" economy typically exhibit higher traffic density due to increased activity levels, such as commuting and logistics, while "Recession" periods may see reduced congestion but uneven infrastructure usage.
@@ -142,6 +147,8 @@ The distribution of economic conditions (e.g., Booming, Recession) shows how urb
 Tailor traffic management strategies to economic conditions. For instance, during economic booms, expand public transportation availability and optimize road usage to reduce strain on the system. Conversely, during recessions, maintain infrastructure efficiency to avoid underutilization and operational costs.
 
 **4. Vehicle Type Distribution (Pie Chart)**
+
+![Screenshot 2024-11-20 232628](https://github.com/user-attachments/assets/eca0350d-c44e-4c74-9ff8-40cb7f678876)
 
 **Detailed Insight:**
 
@@ -153,6 +160,8 @@ Develop policies to regulate flying car usage during specific hours or locations
 
 **5. Weather Conditions (Pie Chart)**
 
+![Screenshot 2024-11-20 232701](https://github.com/user-attachments/assets/00148114-9f3f-4110-941a-db9e3d34fc0d)
+
 **Detailed Insight:**
 
 The weather distribution shows that "Clear" conditions dominate, but adverse weather (Rainy, Foggy, etc.) significantly impacts traffic flow, reducing vehicle speeds and increasing energy consumption. Weather-resilient traffic systems become crucial for maintaining efficiency in such conditions.
@@ -161,6 +170,8 @@ The weather distribution shows that "Clear" conditions dominate, but adverse wea
 Implement adaptive traffic systems that adjust signal timings and lane prioritization during adverse weather. Provide real-time weather and traffic updates to drivers, particularly for autonomous systems, to enable efficient routing decisions.
 
 **6. Peak Hour vs. Avg. Speed (Bar Chart)**
+
+![Screenshot 2024-11-20 232740](https://github.com/user-attachments/assets/32a93bce-5f1d-41b3-bb43-f0eb4121f38e)
 
 **Detailed Insight:**
 
@@ -172,6 +183,8 @@ Encourage staggered work hours or flexible schedules to reduce peak-hour congest
 
 **7. Speed and Traffic Density by Economic Condition (Line Graph)**
 
+![Screenshot 2024-11-20 232827](https://github.com/user-attachments/assets/5332be3b-fba2-4b88-826c-b95a9ddacea2)
+
 **Detailed Insight:**
 
 The graph shows that traffic density is notably higher during a booming economy, which impacts average vehicle speeds. Economic activity drives vehicle usage, and higher traffic density can lead to energy inefficiency and delays.
@@ -181,6 +194,8 @@ The graph shows that traffic density is notably higher during a booming economy,
 Implement data-driven urban traffic models that account for economic trends. Use historical data to anticipate traffic density increases during boom periods and adjust traffic signal timings or open additional lanes accordingly.
 
 **8. Avg. Speed by Hour of Day (Bar Chart)**
+
+![Screenshot 2024-11-20 232901](https://github.com/user-attachments/assets/dafb2d40-a923-4ac1-9951-dbf7e295cb3f)
 
 **Detailed Insight:**
 
@@ -192,6 +207,8 @@ Advocate for carpooling during peak hours to reduce the number of vehicles on th
 
 **9. Energy Consumption City-Wise (Segmented by Vehicle Type) (Stacked Bar Chart)**
 
+![Screenshot 2024-11-20 232945](https://github.com/user-attachments/assets/ce6c1f4e-750b-4878-b301-b92cb1dfe261)
+
 **Detailed Insight:**
 
 Cities with high energy consumption, particularly for flying cars and autonomous vehicles, demonstrate the need for efficient energy distribution systems. Variations in energy consumption also reflect disparities in urban planning and vehicle technology adoption.
@@ -201,6 +218,8 @@ Cities with high energy consumption, particularly for flying cars and autonomous
 Focus on promoting lower-energy vehicle technologies in high-consumption cities. Establish partnerships with renewable energy providers to address the energy demands of futuristic vehicle types like flying cars.
 
 **10. Hour of Day vs. Traffic Density (Line Graph)**
+
+![Screenshot 2024-11-20 233021](https://github.com/user-attachments/assets/393acdc4-1afa-4a17-a583-a27b308ad4af)
 
 **Detailed Insight:**
 
@@ -212,6 +231,8 @@ Expand public transportation capacity during these hours. Implement real-time tr
 
 **11. Traffic Density vs. Energy Consumption (Scatter Plot)**
 
+![Screenshot 2024-11-20 233055](https://github.com/user-attachments/assets/95a1fc41-4bb6-458e-a4fe-983c98ca5f30)
+
 **Detailed Insight:**
 
 The scatter plot shows a positive correlation between traffic density and energy consumption. Higher traffic density leads to more stop-and-go conditions, which increase energy inefficiency.
@@ -222,6 +243,8 @@ Focus on reducing traffic density through improved infrastructure, such as addit
 
 **12. Avg. Speed vs. Vehicle Type (Bar Chart)**
 
+![Screenshot 2024-11-20 233129](https://github.com/user-attachments/assets/bb21a6b8-d1dc-4314-bb7b-579452016fab)
+
 **Detailed Insight:**
 
 The variation in speeds by vehicle type suggests that autonomous vehicles are better at maintaining consistent speeds, reducing congestion and improving fuel efficiency. In contrast, traditional vehicles may struggle under dense traffic.
@@ -231,6 +254,8 @@ The variation in speeds by vehicle type suggests that autonomous vehicles are be
 Encourage the adoption of autonomous vehicles by providing tax benefits or infrastructure incentives. Promote their use in public transportation fleets to demonstrate their efficiency benefits.
 
 **13. Energy Consumption and Traffic Density by Economic Condition (Table)**
+
+![Screenshot 2024-11-20 233337](https://github.com/user-attachments/assets/4d828fb0-18af-48ea-8863-ad29391c136c)
 
 **Detailed Insight:**
 
