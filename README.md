@@ -4,11 +4,11 @@
 
 I would like to express my gratitude to the following individuals and sources for their contributions to this project:
 
-### Prof. Ashok K Harnal: 
+### [Prof. Ashok K Harnal](https://github.com/harnalashok): 
 I am thankful for the guidance and support provided by Prof. Ashok K Harnal, whose expertise has been invaluable in shaping this project.
 
-### Tanishq dublish: 
-I would like to acknowledge the work of Tanishq, whose repository (https://www.kaggle.com/tanishqdublish) served as a valuable reference for understanding and implementing this project.
+### [Tanishq dublish](https://www.kaggle.com/tanishqdublish): 
+I would like to acknowledge the work of Tanishq, whose repository served as a valuable reference for understanding and implementing this project.
 
 ## **Introduction**
 
@@ -64,7 +64,7 @@ The objective of this analysis is to leverage the futuristic urban traffic datas
 
 **Dataset**
 
-**Source:** https://www.kaggle.com/datasets/tanishqdublish/urban-traffic-density-in-cities/data
+**[Dataset Source](https://www.kaggle.com/datasets/tanishqdublish/urban-traffic-density-in-cities/data)**
 
 **Key Features:**
 
